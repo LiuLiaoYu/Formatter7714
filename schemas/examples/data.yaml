@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=./schema.json
+
+
+- 
+  著录格式: 专著
+  主要责任者: asda
+  其他题名信息: asd
+  
+- 
+  著录格式: 专著
+  其他题名信息: asdsa
+  主要责任者: qwe
+
+

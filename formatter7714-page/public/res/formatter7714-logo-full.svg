@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox="0 0 190 60">
+  <!-- <text x="100" y="20" style=""> -->
+  <!-- <{formatter7714}> -->
+  <!-- </text> -->
+
+
+  <!-- <text x="100"  y="100" font-family="youyuan">南京师范大学</text> -->
+  <!-- <text x="100"  y="100" style="">77</text> -->
+
+
+  <text font-size="20" font-family="Fira Code">
+    <tspan x="5" y="24">&lt;{</tspan>
+    <tspan x="30" y="24">formatter</tspan>
+    <tspan x="110" y="48">7714</tspan>
+    <tspan x="160" y="48">}&gt;</tspan>
+  </text>
+
+
+</svg>

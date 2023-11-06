@@ -1,0 +1,19 @@
+{
+  "name": "formatter7714",
+  "type": "module",
+  "packageManager": "pnpm@8.6.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "LiuLiaoYu",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  },
+  "dependencies": {
+    "yaml": "^2.3.3"
+  }
+}
